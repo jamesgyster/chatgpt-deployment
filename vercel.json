@@ -1,8 +1,9 @@
 {
   "functions": {
     "api/chatgpt.js": {
-      "runtime": "nodejs@12"
+      "runtime": "nodejs16.x"
     }
   }
 }
+
 
