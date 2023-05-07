@@ -1,8 +1,9 @@
 {
   "functions": {
-    "api/*.js": {
-      "runtime": "@vercel/node"
+    "api/chatgpt.js": {
+      "runtime": "nodejs16.x"
     }
   }
 }
+
 
